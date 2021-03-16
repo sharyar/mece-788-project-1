@@ -1,0 +1,14 @@
+name: mece-788-project
+channels:
+  - defaults
+dependencies:
+  - seaborn
+  - scikit-learn
+  - pandas
+  - numpy
+  - matplotlib
+  - plotly
+  - bokeh
+  - jupyterlab
+  - jupyter
+prefix: /home/sharyarmemon/anaconda3/envs/mece-788-project
