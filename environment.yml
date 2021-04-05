@@ -2,13 +2,17 @@ name: mece-788-project
 channels:
   - defaults
 dependencies:
+  - bokeh
   - seaborn
   - scikit-learn
   - pandas
-  - numpy
-  - matplotlib
-  - plotly
-  - bokeh
   - jupyterlab
+  - plotly
   - jupyter
-prefix: /home/sharyarmemon/anaconda3/envs/mece-788-project
+  - matplotlib
+  - numpy
+  - statsmodels
+  - mplfinance
+  - python=3.8
+  - sktime
+prefix: C:\Users\shary\.conda\envs\mece-788-project
