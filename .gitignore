@@ -140,7 +140,5 @@ dmypy.json
 cython_debug/
 
 # Data Files
-*.csv
-data_files/Stocks/
 
 .idea
